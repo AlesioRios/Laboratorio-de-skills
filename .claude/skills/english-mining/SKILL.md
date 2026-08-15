@@ -32,6 +32,14 @@ Alesio: Argentine, 20 years old, B1/B2 English. Starting a Work and Travel progr
 - **Manual**: Alesio invokes the skill directly and gives (or is asked for) a source.
 - **Automatic**: the incoming prompt contains the marker `[automatic run]` (used by the daily scheduled routine). In this mode, don't ask Alesio anything — pull the series and next episode from `progress-tracking.md`, use N=5 and M=5, and follow the non-ideal-case fallbacks below instead of stopping to ask. If there is no series currently in progress (never set, or the last series finished with no replacement named), just report that and stop — do not guess a new series.
 
+## Local session git sync
+
+This project's data files are shared with a daily cloud routine that mines automatically and pushes its results to this repo's `main` branch. Because of that, a local/manual session's working copy can be stale relative to what the cloud routine already did.
+
+- In a **manual** (local) invocation, before reading `progress-tracking.md`, `mined-expressions.md`, or `speaking-practice-log.md` for anything (pending-confirmation check, current series/episode, eligible speaking-practice pool), run `git pull` first, so you're acting on whatever the cloud routine may have already pushed.
+- After writing any change to those files in a manual invocation (confirming a batch, merging into the bank, logging speaking practice), `git add` the changed files, commit with a short descriptive message, and `git push`, so the next automatic run sees the latest state instead of stale data.
+- This pull/push step is specific to manual invocations. An **automatic** run already starts from a fresh clone of the latest remote state and pushes its own changes at the end of its run, per its own instructions.
+
 ## Step 0 — always check the pending-confirmation gate first
 
 Before mining anything new (manual or automatic), read the "Pending confirmation" section of `progress-tracking.md`.

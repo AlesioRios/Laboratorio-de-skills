@@ -1,0 +1,8 @@
+# Windows/OS junk
+Thumbs.db
+desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# Local-only Claude Code settings (never commit permissions/secrets)
+.claude/settings.local.json

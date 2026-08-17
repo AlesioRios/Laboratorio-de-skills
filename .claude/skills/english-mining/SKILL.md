@@ -137,10 +137,11 @@ Only series (not YouTube one-offs) get a `## Series` entry.
 
 ## On-screen output format
 
-1. List of the N selected expressions, each showing its approximate timestamp to the right when available.
-2. Per expression: brief meaning, short fragment/quote, ≥5 examples (kept brief), collocations, alternative meanings only if more useful/common than the episode's sense.
-3. Total response ≤ 20×N lines (see Limits).
-4. End every response with the speaking-practice section below.
+1. Each expression gets its own clearly separated block: a heading in a larger text size (markdown heading, e.g. `###`) with a fitting emoji, one per line — never run expressions together in a single paragraph or list them side by side.
+2. Show the approximate timestamp to the right of each heading when available.
+3. Per expression: brief meaning, short fragment/quote, ≥5 examples (kept brief), collocations, alternative meanings only if more useful/common than the episode's sense.
+4. Total response ≤ 20×N lines (see Limits).
+5. End every response with the speaking-practice section below.
 
 ## Speaking-practice selection (end of every response)
 

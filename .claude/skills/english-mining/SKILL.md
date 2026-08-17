@@ -139,9 +139,10 @@ Only series (not YouTube one-offs) get a `## Series` entry.
 
 1. Each expression gets its own clearly separated block: a heading in a larger text size (markdown heading, e.g. `###`) with a fitting emoji, one per line — never run expressions together in a single paragraph or list them side by side.
 2. Show the approximate timestamp to the right of each heading when available.
-3. Per expression: brief meaning, short fragment/quote, ≥5 examples (kept brief), collocations, alternative meanings only if more useful/common than the episode's sense.
-4. Total response ≤ 20×N lines (see Limits).
-5. End every response with the speaking-practice section below.
+3. Always show the source (series + season/episode, or video title) for each expression on-screen — never omit it, even though it's also saved in the files.
+4. Per expression: brief meaning, short fragment/quote, ≥5 examples (kept brief), collocations, alternative meanings only if more useful/common than the episode's sense.
+5. Total response ≤ 20×N lines (see Limits).
+6. End every response with the speaking-practice section below.
 
 ## Speaking-practice selection (end of every response)
 

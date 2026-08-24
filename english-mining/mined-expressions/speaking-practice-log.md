@@ -1,3 +1,8 @@
 # Speaking Practice Log
 
-(no sessions logged yet — organized by date once entries exist)
+## 08/23/2026
+- a little tipsy
+- go under
+- on the brink of
+- stand for
+- throw something out there

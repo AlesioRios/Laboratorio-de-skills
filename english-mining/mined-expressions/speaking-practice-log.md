@@ -1,5 +1,12 @@
 # Speaking Practice Log
 
+## 08/25/2026
+- go for (something/it)
+- sabotage
+- a little tipsy
+- top spot
+- stand for
+
 ## 08/24/2026
 - a little tipsy
 - go under

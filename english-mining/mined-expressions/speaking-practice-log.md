@@ -1,5 +1,12 @@
 # Speaking Practice Log
 
+## 09/06/2026
+- sabotage
+- a little tipsy
+- stand for
+- go for (something/it)
+- on the brink of
+
 ## 09/01/2026
 - hands down
 - go under

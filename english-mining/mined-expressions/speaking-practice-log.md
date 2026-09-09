@@ -1,5 +1,12 @@
 # Speaking Practice Log
 
+## 09/09/2026
+- stand for
+- go for (something/it)
+- on the brink of
+- sabotage
+- go under
+
 ## 09/06/2026
 - sabotage
 - a little tipsy

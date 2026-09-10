@@ -1,5 +1,12 @@
 # Speaking Practice Log
 
+## 09/10/2026
+- sabotage
+- hands down
+- throw something out there
+- stand for
+- empty promise
+
 ## 09/09/2026
 - stand for
 - go for (something/it)

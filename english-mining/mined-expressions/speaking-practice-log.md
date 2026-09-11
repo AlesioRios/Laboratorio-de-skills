@@ -1,5 +1,12 @@
 # Speaking Practice Log
 
+## 09/11/2026
+- throw something out there
+- stand for
+- go for (something/it)
+- go under
+- top spot
+
 ## 09/10/2026
 - sabotage
 - hands down

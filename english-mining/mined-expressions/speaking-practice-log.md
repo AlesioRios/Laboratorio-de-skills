@@ -1,5 +1,12 @@
 # Speaking Practice Log
 
+## 09/13/2026
+- sabotage
+- hands down
+- empty promise
+- on the brink of
+- a little tipsy
+
 ## 09/11/2026
 - throw something out there
 - stand for

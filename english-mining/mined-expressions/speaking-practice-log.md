@@ -1,5 +1,12 @@
 # Speaking Practice Log
 
+## 09/17/2026
+- a little tipsy
+- go under
+- hands down
+- top spot
+- throw something out there
+
 ## 09/14/2026
 - go for (something/it)
 - go under

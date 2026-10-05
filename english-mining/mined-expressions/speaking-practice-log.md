@@ -1,5 +1,12 @@
 # Speaking Practice Log
 
+## 10/05/2026
+- stand for
+- top spot
+- hands down
+- a little tipsy
+- on the brink of
+
 ## 10/03/2026
 - sabotage
 - hands down

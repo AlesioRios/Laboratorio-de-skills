@@ -1,5 +1,12 @@
 # Speaking Practice Log
 
+## 10/08/2026
+- empty promise
+- go for (something/it)
+- go under
+- sabotage
+- throw something out there
+
 ## 10/05/2026
 - stand for
 - top spot

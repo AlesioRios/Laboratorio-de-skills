@@ -1,5 +1,12 @@
 # Speaking Practice Log
 
+## 10/20/2026
+- sabotage
+- top spot
+- empty promise
+- go under
+- on the brink of
+
 ## 10/09/2026
 - a little tipsy
 - hands down

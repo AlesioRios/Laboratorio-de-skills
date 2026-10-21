@@ -1,5 +1,12 @@
 # Speaking Practice Log
 
+## 10/21/2026
+- a little tipsy
+- hands down
+- stand for
+- throw something out there
+- go for (something/it)
+
 ## 10/20/2026
 - sabotage
 - top spot

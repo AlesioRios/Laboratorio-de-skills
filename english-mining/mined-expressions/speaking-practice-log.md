@@ -1,5 +1,12 @@
 # Speaking Practice Log
 
+## 10/27/2026
+- hands down
+- go under
+- on the brink of
+- a little tipsy
+- top spot
+
 ## 10/25/2026
 - empty promise
 - go for (something/it)

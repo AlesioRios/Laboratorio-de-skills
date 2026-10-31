@@ -1,5 +1,12 @@
 # Speaking Practice Log
 
+## 10/31/2026
+- empty promise
+- sabotage
+- throw something out there
+- top spot
+- a little tipsy
+
 ## 10/27/2026
 - hands down
 - go under

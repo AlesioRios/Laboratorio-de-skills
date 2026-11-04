@@ -1,5 +1,12 @@
 # Speaking Practice Log
 
+## 11/04/2026
+- go for (something/it)
+- go under
+- hands down
+- on the brink of
+- stand for
+
 ## 10/31/2026
 - empty promise
 - sabotage

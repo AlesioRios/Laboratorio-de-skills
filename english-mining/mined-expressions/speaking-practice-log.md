@@ -1,5 +1,12 @@
 # Speaking Practice Log
 
+## 11/09/2026
+- top spot
+- empty promise
+- a little tipsy
+- go under
+- stand for
+
 ## 11/04/2026
 - go for (something/it)
 - go under

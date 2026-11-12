@@ -1,5 +1,12 @@
 # Speaking Practice Log
 
+## 11/12/2026
+- go for (something/it)
+- hands down
+- on the brink of
+- sabotage
+- throw something out there
+
 ## 11/09/2026
 - top spot
 - empty promise
